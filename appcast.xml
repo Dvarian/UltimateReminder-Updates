@@ -7,7 +7,7 @@
             <pubDate>Tue, 06 Jan 2026 14:00:39 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="UltimateReminder.zip" length="5583494" type="application/octet-stream"/>
         </item>
     </channel>
